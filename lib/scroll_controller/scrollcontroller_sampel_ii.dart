@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+void main() {
+  runApp(const ScrollcontrollerSampelIi());
+}
+
 class ScrollcontrollerSampelIi extends StatefulWidget {
   const ScrollcontrollerSampelIi({super.key});
 
@@ -80,6 +84,7 @@ class _ScrollcontrollerSampelIiState extends State<ScrollcontrollerSampelIi> {
                           ),
                         ),
                         child: Padding(
+                          // ignore: prefer_const_constructors
                           padding: EdgeInsets.symmetric(
                               vertical: 12.0, horizontal: 20.0),
                           child: Text('Item $index'),
