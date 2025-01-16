@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-///? Contoh ini menunjukkan cara membuat widget Pelengkapan Otomatis dengan tipe khusus.
+///? Contoh ini menunjukkan cara membuat widget Autocomplete dengan tipe khusus.
 ///? Coba telusuri dengan teks dari kolom nama atau email.
 
 /// Flutter code sample for [Autocomplete].
