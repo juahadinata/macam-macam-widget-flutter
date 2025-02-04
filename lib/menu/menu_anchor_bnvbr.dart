@@ -88,7 +88,7 @@ class _HomePageState extends State<HomePage> {
                       elevation: 2.0,
                       shape: OutlineInputBorder(
                           borderSide:
-                              BorderSide(color: Colors.black, width: 3.0),
+                              const BorderSide(color: Colors.black, width: 3.0),
                           borderRadius: BorderRadius.circular(15)),
                       content: Text(
                         'About Selected',
