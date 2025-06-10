@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const ScrollcontrollerSampelIi());
-}
+// void main() {
+//   runApp(const ScrollcontrollerSampelIi());
+// }
 
 class ScrollcontrollerSampelIi extends StatefulWidget {
   const ScrollcontrollerSampelIi({super.key});

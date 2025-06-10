@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const MyStrbldrMapEntry());
-}
+// void main() {
+//   runApp(const MyStrbldrMapEntry());
+// }
 
 class MyStrbldrMapEntry extends StatelessWidget {
   const MyStrbldrMapEntry({super.key});

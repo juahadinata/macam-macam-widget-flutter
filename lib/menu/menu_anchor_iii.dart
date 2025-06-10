@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 /// Flutter code sample for [SimpleCascadingMenuApp].
 ///? Contoh ini mendemonstrasikan menu berjenjang yang disederhanakan menggunakan widget MenuAnchor.
 
-void main() => runApp(const SimpleCascadingMenuApp());
+// void main() => runApp(const SimpleCascadingMenuApp());
 
 /// A Simple Cascading Menu example using the [MenuAnchor] Widget.
 class MyCascadingMenu extends StatefulWidget {

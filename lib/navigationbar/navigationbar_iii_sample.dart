@@ -11,11 +11,11 @@ import 'package:flutter/material.dart';
 
 ///! masih gantung bro...
 
-void main() {
-  runApp(const MaterialApp(
-    home: Home(),
-  ));
-}
+// void main() {
+//   runApp(const MaterialApp(
+//     home: Home(),
+//   ));
+// }
 
 class Home extends StatefulWidget {
   const Home({super.key});

@@ -8,7 +8,7 @@ import 'package:flutter/services.dart';
 ///? Atribut jangkarTapClosesMenu diatur ke true sehingga klik pada area MenuAnchor
 ///? akan menyebabkan menu ditutup.
 
-void main() => runApp(const ContextMenuApp());
+// void main() => runApp(const ContextMenuApp());
 
 /// An enhanced enum to define the available menus and their shortcuts.
 ///

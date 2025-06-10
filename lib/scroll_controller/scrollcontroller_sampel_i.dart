@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 /// Flutter code sample for [ScrollController] & [ScrollNotification].
 
-void main() => runApp(const ScrollNotificationDemo());
+// void main() => runApp(const ScrollNotificationDemo());
 
 class ScrollNotificationDemo extends StatefulWidget {
   const ScrollNotificationDemo({super.key});

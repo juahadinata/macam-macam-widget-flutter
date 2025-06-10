@@ -6,9 +6,9 @@
 
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const NavigationBarDuaApp());
-}
+// void main() {
+//   runApp(const NavigationBarDuaApp());
+// }
 
 class NavigationBarDuaApp extends StatelessWidget {
   const NavigationBarDuaApp({super.key});

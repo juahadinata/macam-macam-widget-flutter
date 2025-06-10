@@ -16,7 +16,7 @@ import 'package:flutter/services.dart';
 ///? Contoh ini menunjukkan cara menggunakan MenuAnchor
 ///? untuk membungkus tombol dan membuka menu berjenjang dari tombol tersebut.
 
-void main() => runApp(const MenuApp());
+// void main() => runApp(const MenuApp());
 
 ///*======================================================================
 

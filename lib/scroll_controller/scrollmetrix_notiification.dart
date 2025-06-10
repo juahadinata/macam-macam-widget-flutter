@@ -5,9 +5,9 @@ import 'package:flutter/material.dart';
 /// Contoh ini menunjukkan bagaimana ScrollMetricsNotification dikirimkan ketika windowSize diubah.
 /// Tekan FloatingActionButtun untuk menambah ukuran jendela yang dapat digulir.
 
-void main() {
-  runApp(const ScrollMetricsDemo());
-}
+// void main() {
+//   runApp(const ScrollMetricsDemo());
+// }
 
 class ScrollMetricsDemo extends StatefulWidget {
   const ScrollMetricsDemo({super.key});

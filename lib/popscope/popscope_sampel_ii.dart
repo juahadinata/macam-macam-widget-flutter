@@ -3,7 +3,7 @@
 
 import 'package:flutter/material.dart';
 
-void main() => runApp(const NavigatorPopHandlerApp());
+// void main() => runApp(const NavigatorPopHandlerApp());
 
 class NavigatorPopHandlerApp extends StatelessWidget {
   const NavigatorPopHandlerApp({super.key});

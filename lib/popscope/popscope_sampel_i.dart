@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 // Contoh ini menunjukkan menampilkan dialog konfirmasi sebelum keluar dari halaman.
 
-void main() => runApp(const NavigatorPopHandlerApp());
+// void main() => runApp(const NavigatorPopHandlerApp());
 
 class NavigatorPopHandlerApp extends StatelessWidget {
   const NavigatorPopHandlerApp({super.key});

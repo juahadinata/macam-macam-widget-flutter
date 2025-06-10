@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:macam_macam_widget/widget_custom/widget_ii.dart';
 
-void main() {
-  runApp(const MyWidget());
-}
+// void main() {
+//   runApp(const MyWidget());
+// }
 
 class MyWidget extends StatelessWidget {
   const MyWidget({super.key});
@@ -46,8 +46,8 @@ class _MySampelState extends State<MySampel> {
                   decoration: InputDecoration(
                     enabledBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(15),
-                        borderSide:
-                            BorderSide(color: Colors.deepPurple, width: 3)),
+                        borderSide: const BorderSide(
+                            color: Colors.deepPurple, width: 3)),
                     labelText: 'Enter text',
                   ),
                 ),
@@ -136,12 +136,12 @@ class _MySampelState extends State<MySampel> {
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(12.0),
                 ),
-                child: Text("Rounded Button"),
+                child: const Text("Rounded Button"),
               ),
               Container(
                 height: 100,
                 width: 100,
-                decoration: ShapeDecoration(
+                decoration: const ShapeDecoration(
                   color: Colors.orange,
                   shape: CircleBorder(
                     side: BorderSide(color: Colors.black, width: 2),
@@ -151,10 +151,10 @@ class _MySampelState extends State<MySampel> {
               ElevatedButton(
                 onPressed: () {},
                 style: ElevatedButton.styleFrom(
-                  shape: StadiumBorder(),
+                  shape: const StadiumBorder(),
                   backgroundColor: Colors.green,
                 ),
-                child: Text("Stadium Button"),
+                child: const Text("Stadium Button"),
               ),
             ],
           ),

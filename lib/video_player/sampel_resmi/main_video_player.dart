@@ -8,13 +8,13 @@ import 'package:flutter/material.dart';
 
 import 'mini_controller.dart';
 
-void main() {
-  runApp(
-    MaterialApp(
-      home: _App(),
-    ),
-  );
-}
+// void main() {
+//   runApp(
+//     MaterialApp(
+//       home: _App(),
+//     ),
+//   );
+// }
 
 class _App extends StatelessWidget {
   @override

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const MyLatihanList());
-}
+// void main() {
+//   runApp(const MyLatihanList());
+// }
 
 class MyLatihanList extends StatefulWidget {
   const MyLatihanList({super.key});
